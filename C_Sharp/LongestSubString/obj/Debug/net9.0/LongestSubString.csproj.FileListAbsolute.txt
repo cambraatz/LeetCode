@@ -1,0 +1,15 @@
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.AssemblyInfo.cs
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.sourcelink.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\bin\Debug\net9.0\LongestSubString.exe
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\bin\Debug\net9.0\LongestSubString.deps.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\bin\Debug\net9.0\LongestSubString.runtimeconfig.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\bin\Debug\net9.0\LongestSubString.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\bin\Debug\net9.0\LongestSubString.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\refint\LongestSubString.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\LongestSubString.genruntimeconfig.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LongestSubString\obj\Debug\net9.0\ref\LongestSubString.dll

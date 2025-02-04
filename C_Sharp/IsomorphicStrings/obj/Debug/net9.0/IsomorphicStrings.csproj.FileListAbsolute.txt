@@ -1,0 +1,15 @@
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\bin\Debug\net9.0\IsomorphicStrings.exe
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\bin\Debug\net9.0\IsomorphicStrings.deps.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\bin\Debug\net9.0\IsomorphicStrings.runtimeconfig.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\bin\Debug\net9.0\IsomorphicStrings.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\bin\Debug\net9.0\IsomorphicStrings.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.AssemblyInfo.cs
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.sourcelink.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\refint\IsomorphicStrings.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\IsomorphicStrings.genruntimeconfig.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\IsomorphicStrings\obj\Debug\net9.0\ref\IsomorphicStrings.dll

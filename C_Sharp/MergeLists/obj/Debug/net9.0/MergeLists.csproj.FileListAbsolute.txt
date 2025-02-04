@@ -1,0 +1,15 @@
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.AssemblyInfo.cs
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.sourcelink.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\bin\Debug\net9.0\MergeLists.exe
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\bin\Debug\net9.0\MergeLists.deps.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\bin\Debug\net9.0\MergeLists.runtimeconfig.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\bin\Debug\net9.0\MergeLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\bin\Debug\net9.0\MergeLists.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\refint\MergeLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\MergeLists.genruntimeconfig.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\MergeLists\obj\Debug\net9.0\ref\MergeLists.dll

@@ -1,0 +1,15 @@
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.AssemblyInfo.cs
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.sourcelink.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\bin\Debug\net9.0\LinkedLists.exe
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\bin\Debug\net9.0\LinkedLists.deps.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\bin\Debug\net9.0\LinkedLists.runtimeconfig.json
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\bin\Debug\net9.0\LinkedLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\bin\Debug\net9.0\LinkedLists.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\refint\LinkedLists.dll
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.pdb
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\LinkedLists.genruntimeconfig.cache
+C:\Users\camer\Documents\Code\LeetCode\C_Sharp\LinkedLists\obj\Debug\net9.0\ref\LinkedLists.dll
