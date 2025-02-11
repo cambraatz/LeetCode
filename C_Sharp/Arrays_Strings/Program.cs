@@ -164,6 +164,93 @@ namespace ArraysStrings
 
             return result;
         }
+
+        // GasStation (#134)...
+        public int CanCompleteCircuit(int[] gas, int[] cost)
+        {
+            // begin at station 0 w/ empty tank...
+            int total_gas = 0;
+            int total_cost = 0;
+            int capacity = 0;
+            int start = 0;
+
+            // sum gas + costs, iterate starts to find valid start...
+            for (int i = 0; i < gas.Length; i++)
+            {
+                total_gas += gas[i];
+                total_cost += cost[i];
+                capacity += gas[i] - cost[i];
+
+                if (capacity < 0)
+                {
+                    start = i+1;
+                    capacity = 0;
+                }
+            }
+
+            // ensure loop is possible...
+            if (total_gas < total_cost)
+            {
+                return -1;
+            }
+
+            // return valid start station...
+            return start;
+        }
+
+        // ReverseWords (#151)...
+        public string ReverseWords(string s)
+        {
+            // remove leading/trailing spaces...
+            s = s.Trim();
+
+            // split string into array of substrings, delimited by spaces + exclude spaces...
+            string[] words = s.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            
+            // reverse array...
+            Array.Reverse(words);
+
+            return string.Join(" ", words);
+        }
+
+        // CombinationSum (#39)...
+        public IList<IList<int>> CombinationSum(int[] candidates, int target) {
+            // initialize result List...
+            IList<IList<int>> result = new List<IList<int>>();
+
+            // define recursive helper...
+            void Backtrack(List<int> currCombo, int start, int currSum)
+            {
+                // base case: check for target...
+                if (currSum == target)
+                {
+                    // store current combo in results...
+                    result.Add(new List<int>(currCombo));
+                    return;
+                }
+
+                // return when currSum < target...
+                if (currSum > target) { return; }
+
+                // try each candidate from start onwards (avoids duplicates)...
+                for (int i = start; i < candidates.Length; i++)
+                {
+                    // add curr candidate...
+                    currCombo.Add(candidates[i]);
+
+                    // recurse w/ curr candidate again...
+                    Backtrack(currCombo, i, currSum+candidates[i]);
+
+                    // remove last candidate...
+                    currCombo.RemoveAt(currCombo.Count - 1);
+                }
+            }
+
+            // start backtracking from ind=0, empty combo and sum=0...
+            Backtrack(new List<int>(), 0, 0);
+
+            return result;
+        }
     }
 
     public class Problems
@@ -265,6 +352,52 @@ namespace ArraysStrings
 
             Console.WriteLine(result + "\n");
         }
+
+        // GasStation (#134)...
+        public void CanCompleteCircuit()
+        {
+            Console.WriteLine("Solving GasStation");
+
+            int[] gas = {1,2,3,4,5};
+            int[] cost = {3,4,5,1,2};
+
+            Solutions solution = new Solutions();
+            int result = solution.CanCompleteCircuit(gas,cost);
+
+            Console.WriteLine($"Circuit found starting at station {result}\n");
+        }
+
+        // ReverseWords (#151)...
+        public void ReverseWords()
+        {
+            Console.WriteLine("Solving ReverseWords");
+
+            string s = "a good   example";
+
+            Solutions solution = new Solutions();
+            string reversed = solution.ReverseWords(s);
+
+            Console.WriteLine(reversed + "\n");
+        }
+
+        // CombinationSum (#39)...
+        public void CombinationSum() 
+        {
+            Console.WriteLine("Solving CombinationSum");
+
+            int[] candidates = {2,3,6,7};
+            int target = 7;
+
+            Solutions solution = new Solutions();
+            IList<IList<int>> results = solution.CombinationSum(candidates,target);
+
+            foreach (IList<int> result in results)
+            {
+                Console.WriteLine("[" + string.Join(",",result) + "]");
+            }
+
+            Console.Write("\n");
+        }
     }
 
     public class Program
@@ -277,6 +410,9 @@ namespace ArraysStrings
             problem.RemoveDuplicates();
             problem.IntToRoman();
             problem.RomanToInt();
+            problem.CanCompleteCircuit();
+            problem.ReverseWords();
+            problem.CombinationSum();
         }
     }
 }

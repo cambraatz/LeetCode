@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestSubString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6326be8487f1b3e5ee2d64153352f0b3e626595")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40307a5f48a18092086ff75409e8209ed1c979b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestSubString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestSubString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
